@@ -51,7 +51,7 @@ Horas: 16 hrs
 
 - Intervalos de confianza
 
-## Semana 4: p O no p
+## Semana 4: P o no P
 
 - Errores tipo I y tipo II
 
